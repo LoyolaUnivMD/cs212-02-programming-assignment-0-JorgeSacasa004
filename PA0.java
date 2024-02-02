@@ -1,3 +1,11 @@
+// Programmers: Jorge
+// Course:  CS212, Professor Nweke
+// Due Date: 2/02/2024
+// PA: 0
+// Problem Statement: Your task is to write a Java program that will predict the cases of COVID-19 depending on the number of people infected daily.
+// Data In: The number of people infected daily
+// Data Out: the total cases per day
+// Credits: none
 import java.util.Scanner;
 public class Main
 {
